@@ -1,0 +1,85 @@
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":23978,"level":30,"msg":"Ghost is running in development...","time":"2022-08-27T17:03:11.764Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":23978,"level":30,"msg":"Listening on: 127.0.0.1:2368","time":"2022-08-27T17:03:11.764Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":23978,"level":30,"msg":"Url configured as: http://localhost:2368/","time":"2022-08-27T17:03:11.765Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":23978,"level":30,"msg":"Ctrl+C to shut down","time":"2022-08-27T17:03:11.765Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":23978,"level":30,"msg":"Ghost server started in 0.701s","time":"2022-08-27T17:03:11.766Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":23978,"level":50,"err":{"id":500,"domain":"http://localhost:2368","code":"ER_ACCESS_DENIED_ERROR","name":"DatabaseError","statusCode":500,"level":"critical","message":"Access denied for user 'onlipgwb_root'@'localhost' (using password: YES)","help":"\"Unknown database error\"","stack":"Error: Access denied for user 'onlipgwb_root'@'localhost' (using password: YES)\n    at /media/ali/New Volume/Ali_data/ghost_cms_deploy/node_modules/knex-migrator/lib/database.js:57:19\n    at Packet.asError (/media/ali/New Volume/Ali_data/ghost_cms_deploy/node_modules/mysql2/lib/packets/packet.js:728:17)\n    at ClientHandshake.execute (/media/ali/New Volume/Ali_data/ghost_cms_deploy/node_modules/mysql2/lib/commands/command.js:29:26)\n    at Connection.handlePacket (/media/ali/New Volume/Ali_data/ghost_cms_deploy/node_modules/mysql2/lib/connection.js:456:32)\n    at PacketParser.onPacket (/media/ali/New Volume/Ali_data/ghost_cms_deploy/node_modules/mysql2/lib/connection.js:85:12)\n    at PacketParser.executeStart (/media/ali/New Volume/Ali_data/ghost_cms_deploy/node_modules/mysql2/lib/packet_parser.js:75:16)\n    at Socket.<anonymous> (/media/ali/New Volume/Ali_data/ghost_cms_deploy/node_modules/mysql2/lib/connection.js:92:25)\n    at Socket.emit (events.js:400:28)\n    at addChunk (internal/streams/readable.js:293:12)\n    at readableAddChunk (internal/streams/readable.js:267:9)\n    at Socket.Readable.push (internal/streams/readable.js:206:10)\n    at TCP.onStreamRead (internal/stream_base_commons.js:188:23)","hideStack":false},"msg":"Access denied for user 'onlipgwb_root'@'localhost' (using password: YES)","time":"2022-08-27T17:03:12.035Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":23978,"level":40,"msg":"Ghost is shutting down","time":"2022-08-27T17:03:12.036Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":23978,"level":40,"msg":"Ghost has shut down","time":"2022-08-27T17:03:12.036Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":23978,"level":40,"msg":"Ghost was running for a few seconds","time":"2022-08-27T17:03:12.038Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Ghost is running in development...","time":"2022-08-27T17:05:36.138Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Listening on: 127.0.0.1:2368","time":"2022-08-27T17:05:36.139Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Url configured as: http://localhost:2368/","time":"2022-08-27T17:05:36.139Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Ctrl+C to shut down","time":"2022-08-27T17:05:36.140Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Ghost server started in 0.575s","time":"2022-08-27T17:05:36.140Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":40,"msg":"Database state requires initialisation.","time":"2022-08-27T17:05:36.400Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: newsletters","time":"2022-08-27T17:05:36.805Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: posts","time":"2022-08-27T17:05:36.898Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: posts_meta","time":"2022-08-27T17:05:37.026Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: users","time":"2022-08-27T17:05:37.129Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: posts_authors","time":"2022-08-27T17:05:37.190Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: roles","time":"2022-08-27T17:05:37.310Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: roles_users","time":"2022-08-27T17:05:37.353Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: permissions","time":"2022-08-27T17:05:37.372Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: permissions_users","time":"2022-08-27T17:05:37.412Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: permissions_roles","time":"2022-08-27T17:05:37.435Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: settings","time":"2022-08-27T17:05:37.458Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: tags","time":"2022-08-27T17:05:37.499Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: posts_tags","time":"2022-08-27T17:05:37.541Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: invites","time":"2022-08-27T17:05:37.659Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: brute","time":"2022-08-27T17:05:37.716Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: sessions","time":"2022-08-27T17:05:37.739Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: integrations","time":"2022-08-27T17:05:37.778Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: webhooks","time":"2022-08-27T17:05:37.819Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: api_keys","time":"2022-08-27T17:05:37.891Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2022-08-27T17:05:37.929Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members","time":"2022-08-27T17:05:37.970Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: products","time":"2022-08-27T17:05:38.044Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: offers","time":"2022-08-27T17:05:38.085Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: benefits","time":"2022-08-27T17:05:38.217Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: products_benefits","time":"2022-08-27T17:05:38.255Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_products","time":"2022-08-27T17:05:38.374Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: posts_products","time":"2022-08-27T17:05:38.500Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_cancel_events","time":"2022-08-27T17:05:38.618Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_payment_events","time":"2022-08-27T17:05:38.686Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_login_events","time":"2022-08-27T17:05:38.753Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_email_change_events","time":"2022-08-27T17:05:38.822Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_status_events","time":"2022-08-27T17:05:38.893Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_product_events","time":"2022-08-27T17:05:38.973Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_paid_subscription_events","time":"2022-08-27T17:05:39.092Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: labels","time":"2022-08-27T17:05:39.166Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_labels","time":"2022-08-27T17:05:39.219Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_stripe_customers","time":"2022-08-27T17:05:39.333Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2022-08-27T17:05:39.420Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: offer_redemptions","time":"2022-08-27T17:05:39.594Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_subscribe_events","time":"2022-08-27T17:05:39.772Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: stripe_products","time":"2022-08-27T17:05:39.898Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: stripe_prices","time":"2022-08-27T17:05:39.992Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: actions","time":"2022-08-27T17:05:40.079Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: emails","time":"2022-08-27T17:05:40.101Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: email_batches","time":"2022-08-27T17:05:40.213Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: email_recipients","time":"2022-08-27T17:05:40.276Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: tokens","time":"2022-08-27T17:05:40.486Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: snippets","time":"2022-08-27T17:05:40.526Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: custom_theme_settings","time":"2022-08-27T17:05:40.566Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: members_newsletters","time":"2022-08-27T17:05:40.588Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: comments","time":"2022-08-27T17:05:40.708Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: comment_likes","time":"2022-08-27T17:05:40.877Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: comment_reports","time":"2022-08-27T17:05:41.005Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Creating table: jobs","time":"2022-08-27T17:05:41.129Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Model: Product","time":"2022-08-27T17:05:42.349Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Model: Newsletter","time":"2022-08-27T17:05:42.359Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Model: Tag","time":"2022-08-27T17:05:42.370Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Model: Permission","time":"2022-08-27T17:05:42.378Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Model: Post","time":"2022-08-27T17:05:42.647Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Model: Integration","time":"2022-08-27T17:05:43.166Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Relation: Role to Permission","time":"2022-08-27T17:05:43.217Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Relation: Post to Tag","time":"2022-08-27T17:05:43.407Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Database is in a ready state.","time":"2022-08-27T17:05:43.475Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Ghost database ready in 7.913s","time":"2022-08-27T17:05:43.478Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Adding one off inline job to the queue","time":"2022-08-27T17:05:45.558Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Stripe not configured - skipping migrations","time":"2022-08-27T17:05:45.565Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Ghost URL Service Ready in 10.063s","time":"2022-08-27T17:05:45.629Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Ghost booted in 10.475s","time":"2022-08-27T17:05:46.041Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-08-27T17:05:46.054Z","v":0}
+{"name":"Log","hostname":"ali-Inspiron-15-3511","pid":24353,"level":30,"msg":"Scheduling job update-check at 13 16 2 * * *. Next run on: Sun Aug 28 2022 02:16:13 GMT+0500 (Pakistan Standard Time)","time":"2022-08-27T17:05:46.064Z","v":0}
